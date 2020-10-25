@@ -1,0 +1,22 @@
+
+{
+    "servers":[
+        {
+            "SERVER_NAME":"Server1",
+            "TARGET_HOST":"hpmc-thingworx.westeurope.cloudapp.azure.com",
+            "TARGET_PORT":"8443",
+            "TARGET_APPKEY":"826664a3-2c46-4139-89de-a4a13d56c271",
+            "THREADS":"1",
+            "SCHEME":"http"
+        },
+        {
+            "SERVER_NAME":"Server2",
+            "TARGET_HOST":"hpmc-thingworx.azurefd.net",
+            "TARGET_PORT":"443",
+            "TARGET_APPKEY":"826664a3-2c46-4139-89de-a4a13d56c271",
+            "THREADS":"1",
+            "SCHEME":"https"
+        }
+    ]
+}
+

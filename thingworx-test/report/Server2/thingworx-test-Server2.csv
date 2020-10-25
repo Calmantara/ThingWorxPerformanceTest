@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603618584079,866,Test0:HTTP Request 1k String,200,,Scenario1 1-1,text,true,,1687,314,1,1,https://hpmc-thingworx.azurefd.net/Thingworx/Things/SandBox.Generic.Thing/Services/GetString1k,863,0,454
+1603618584959,689,Test1:HTTP Request 100k String,200,,Scenario1 1-1,text,true,,103260,316,1,1,https://hpmc-thingworx.azurefd.net/Thingworx/Things/SandBox.Generic.Thing/Services/GetString100k,187,0,0
+1603618585649,939,Test2:HTTP Request 500k String,200,,Scenario1 1-1,text,true,,513605,316,1,1,https://hpmc-thingworx.azurefd.net/Thingworx/Things/SandBox.Generic.Thing/Services/GetString500k,187,0,0
+1603618586589,566,Test3:HTTP Request 1M String,200,,Scenario1 1-1,text,true,,1051170,314,1,1,https://hpmc-thingworx.azurefd.net/Thingworx/Things/SandBox.Generic.Thing/Services/GetString1M,189,0,0
+1603618587156,1032,Test4:HTTP Request 5M String,200,,Scenario1 1-1,text,true,,5253154,314,1,1,https://hpmc-thingworx.azurefd.net/Thingworx/Things/SandBox.Generic.Thing/Services/GetString5M,192,0,0
