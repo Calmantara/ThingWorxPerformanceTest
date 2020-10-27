@@ -1,6 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1603618567198,437,Test0:HTTP Request 1k String,200,,Scenario1 1-1,text,true,,1611,337,1,1,http://hpmc-thingworx.westeurope.cloudapp.azure.com:8443/Thingworx/Things/SandBox.Generic.Thing/Services/GetString1k,433,0,240
-1603618567641,602,Test1:HTTP Request 100k String,200,,Scenario1 1-1,text,true,,103084,339,1,1,http://hpmc-thingworx.westeurope.cloudapp.azure.com:8443/Thingworx/Things/SandBox.Generic.Thing/Services/GetString100k,185,0,0
-1603618568244,578,Test2:HTTP Request 500k String,200,,Scenario1 1-1,text,true,,513084,339,1,1,http://hpmc-thingworx.westeurope.cloudapp.azure.com:8443/Thingworx/Things/SandBox.Generic.Thing/Services/GetString500k,185,0,0
-1603618568822,568,Test3:HTTP Request 1M String,200,,Scenario1 1-1,text,true,,1050186,337,1,1,http://hpmc-thingworx.westeurope.cloudapp.azure.com:8443/Thingworx/Things/SandBox.Generic.Thing/Services/GetString1M,185,0,0
-1603618569393,3963,Test4:HTTP Request 5M String,200,,Scenario1 1-1,text,true,,5248586,337,1,1,http://hpmc-thingworx.westeurope.cloudapp.azure.com:8443/Thingworx/Things/SandBox.Generic.Thing/Services/GetString5M,194,0,0
