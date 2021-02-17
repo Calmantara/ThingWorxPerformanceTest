@@ -31,7 +31,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="TARGET_HOST" elementType="Argument">
               <stringProp name="Argument.name">TARGET_HOST</stringProp>
-              <stringProp name="Argument.value">${__P(TARGET_HOST,hpmc-thingworx.azurefd.net)}</stringProp>
+              <stringProp name="Argument.value">${__P(TARGET_HOST,127.0.0.1)}</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
               <stringProp name="Argument.desc">ThingWorx host IP address or DNS</stringProp>
             </elementProp>
